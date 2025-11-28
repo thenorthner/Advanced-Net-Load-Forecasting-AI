@@ -7,6 +7,7 @@
 
 > **A Smart Grid Management System that predicts Net Load by analysing Solar Generation, Weather Conditions, and Historical Consumption Patterns.**
 
+REPORT : https://drive.google.com/file/d/14O9umxJLR7923XFyVpy5rpWXCDfcSV-t/view?usp=sharing
 ---
 
 ##  Dashboard Preview
@@ -81,6 +82,7 @@ Algorithm: XGBoost Regressor
 R² Score: 0.9836 (98.36% Accuracy)
 
 Key Insight: The model successfully captures the inverse relationship between high Irradiation and Net Load drops.
+
 
 
 
